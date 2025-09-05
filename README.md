@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Welcome to CoffeeStain frontend.
 
 This is a blank project for CDK development with TypeScript.
 
